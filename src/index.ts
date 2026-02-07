@@ -13,5 +13,5 @@ export * from './components/atoms'
 // Components - Molecules
 export * from './components/molecules'
 
-// Components - Organisms (to be added)
-// export * from './components/organisms'
+// Components - Organisms
+export * from './components/organisms'
