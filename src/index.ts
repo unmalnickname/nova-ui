@@ -10,8 +10,8 @@ export * from './utils'
 // Components - Atoms
 export * from './components/atoms'
 
-// Components - Molecules (to be added)
-// export * from './components/molecules'
+// Components - Molecules
+export * from './components/molecules'
 
 // Components - Organisms (to be added)
 // export * from './components/organisms'
